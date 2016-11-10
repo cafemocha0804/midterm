@@ -1,14 +1,29 @@
-function plus(){
+function plus(a, b){
+    let result;
+    result= a + b;
+    return result;
 }
 
-function minus(){
+function minus(a, b){
+    let result;
+    result= a - b;
+    return result;
 }
 
-function times(){
+function times(a, b){
+    let result;
+    result= a * b;
+    return result;
 }
 
-function div(){
+function div(a, b){
+    let result;
+    result= a / b;
+    return result;
 }
 
-function mod(){  
+function mod(a, b){  
+    let result;
+    result= a % b;
+    return result;
 }
